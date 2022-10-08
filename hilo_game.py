@@ -1,5 +1,5 @@
 """
-Tic-Tac-Toe
+Hilo Game
 
 W04 Prove: Developer - Team Code Submission
 
