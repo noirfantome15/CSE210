@@ -1,7 +1,7 @@
 $white: #ffffff;
 $black: #000000;
 $primary1: #252525;
-$btnColor: #82c419;
+$btnColor: #FF942F;
 
 @mixin main-font {
   font-family: "Poppins", sans-serif;
@@ -343,7 +343,7 @@ a:focus {
 
 // slider section
 .slider_section {
-  background-image: url(../images/slider-bg.jpg);
+  background-image: url(../images/slider-bg2.jpg);
   background-size: cover;
   flex: 1;
   color: $white;
